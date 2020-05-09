@@ -1,12 +1,15 @@
 ---
-title: What I Learned This Week
-date: "2020-04-13"
+title: Being Rich For Few Minutes
+date: "2020-04-19"
 template: "post"
 draft: false
-description: "Or How I Decided To Start My Journey To Self-Improvement"
+slug: "Being-Rich-For-Few-Minutes"
+tags:
+  - "Handwriting"
+  - "Learning to write"
+description: "What I Learned This Week 1 : 04/13/20 TO 04/19/20"
 socialImage: "/media/WILTW_1.jpg"
 ---
-
 <!---
 ![Someone writing](/media/WILTW.jpg")
 

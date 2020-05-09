@@ -1,8 +1,14 @@
 ---
-title: Normalcy Bias Or Why People Are Attached To Inaction
-date: "2020-05-03"
+title: Being Rich For Few Minutes
+date: "2020-04-19"
 template: "post"
-description: "What I Learned This Week 3 : 04/26/20 TO 05/03/20"
+draft: false
+slug: "Being-Rich-For-Few-Minutes"
+tags:
+  - "Handwriting"
+  - "Learning to write"
+description: "What I Learned This Week 1 : 04/13/20 TO 04/19/20"
+socialImage: "/media/WILTW_1.jpg"
 ---
 <!---
 

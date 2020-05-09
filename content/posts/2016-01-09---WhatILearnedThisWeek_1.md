@@ -2,10 +2,15 @@
 title: Being Rich For Few Minutes
 date: "2020-04-19"
 template: "post"
+draft: false
+slug: "Being-Rich-For-Few-Minutes"
+tags:
+  - "Handwriting"
+  - "Learning to write"
 description: "What I Learned This Week 1 : 04/13/20 TO 04/19/20"
+socialImage: "/media/WILTW_1.jpg"
 ---
 
-<!---
 ![Reverse split](/media/WILTW_1.jpg)
 
 Since the beginning of the covid19 outbreak and the stock market crash, I've been investing in stock markets.
@@ -22,4 +27,4 @@ This meant that the price of the share is multiplied by 200 but the total number
 My brocker account 'Revolut' took some time to process this change; I was not a rich trader.
 
 Amine 
--->
+

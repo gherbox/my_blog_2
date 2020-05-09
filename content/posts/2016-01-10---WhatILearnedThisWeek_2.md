@@ -1,8 +1,14 @@
 ---
-title: Getting Paid To Buy Oil
-date: "2020-04-26"
+title: Being Rich For Few Minutes
+date: "2020-04-19"
 template: "post"
-description: "What I Learned This Week 2 : 04/19/20 TO 04/26/20"
+draft: false
+slug: "Being-Rich-For-Few-Minutes"
+tags:
+  - "Handwriting"
+  - "Learning to write"
+description: "What I Learned This Week 1 : 04/13/20 TO 04/19/20"
+socialImage: "/media/WILTW_1.jpg"
 ---
 <!---
 
