@@ -7,6 +7,7 @@ description: "Or How I Decided To Start My Journey To Self-Improvement"
 socialImage: "/media/WILTW_1.jpg"
 ---
 
+<!---
 ![Someone writing](/media/WILTW.jpg")
 
 This is my first post on my new blog! How exciting!
@@ -25,3 +26,5 @@ This post was just a presentation of the challenge. I’m sure I’ll write a lo
 See you next week!!
 
 Amine 
+
+-->
