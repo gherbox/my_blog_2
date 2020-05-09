@@ -7,7 +7,7 @@ slug: "Being-Rich-For-Few-Minutes"
 tags:
   - "Handwriting"
   - "Learning to write"
-description: "What I Learned This Week 1 : 04/13/20 TO 04/19/20"
+description: "What I Learned This Week 1 : 04/13/20 To 04/19/20"
 socialImage: "/media/WILTW.jpg"
 ---
 
