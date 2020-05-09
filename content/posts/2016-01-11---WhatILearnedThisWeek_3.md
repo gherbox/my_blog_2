@@ -4,7 +4,7 @@ date: "2020-05-03"
 template: "post"
 description: "What I Learned This Week 3 : 04/26/20 TO 05/03/20"
 ---
-
+<!---
 
 ![Normalcy Bias during fire](/media/WILTW_3_1.jpg)
 
@@ -20,3 +20,4 @@ Nowadays we have a clear example of Normalcy bias with the COVID19 outbreak. Eve
 Have you ever had an experience involving this phenomenon? How did you react?
 
 Amine 
+-->

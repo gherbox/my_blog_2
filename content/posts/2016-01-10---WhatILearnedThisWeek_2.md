@@ -4,7 +4,7 @@ date: "2020-04-26"
 template: "post"
 description: "What I Learned This Week 2 : 04/19/20 TO 04/26/20"
 ---
-
+<!---
 
 ![barel price Texas](/media/WILTW_2.jpg)
 
@@ -26,3 +26,4 @@ So in reality, NO, you won’t become the next Mukesh Ambani from this market su
 
 
 Amine 
+-->
