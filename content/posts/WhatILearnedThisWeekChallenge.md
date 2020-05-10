@@ -7,6 +7,7 @@ slug: "What-I-Learned-This-Week-Challenge"
 description: "Or How I Decided To Start My Journey To Self-Improvement"
 socialImage: "/media/WILTW.jpg"
 ---
+WILTW.jpg
 
 ![Someone writing](/media/WILTW.jpg")
 
