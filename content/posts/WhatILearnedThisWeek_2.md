@@ -4,7 +4,7 @@ date: "2020-04-26"
 template: "post"
 draft: false
 slug: "Getting-Paid-To-Buy-Oil"
-description: "What I Learned This Week 2 : 04/19/20 TO 04/26/20"
+description: "What I Learned This Week 2 : 04/19/20 To 04/26/20"
 socialImage: "/media/WILTW_2.jpg"
 ---
 

@@ -4,7 +4,7 @@ date: "2020-05-03"
 template: "post"
 draft: false
 slug: "Normalcy-Bias-Or-Why-People-Are-Attached-To-Inaction"
-description: "What I Learned This Week 3 : 04/26/20 TO 05/03/20"
+description: "What I Learned This Week 3 : 04/26/20 To 05/03/20"
 socialImage: "/media/WILTW_3.jpg"
 ---
 
