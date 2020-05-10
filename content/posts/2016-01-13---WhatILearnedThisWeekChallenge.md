@@ -1,10 +1,10 @@
 ---
-title: Being Rich For Few Minutes
+title: What I Learned This Week Challenge
 date: "2020-04-13"
 template: "post"
 draft: false
 slug: "Being-Rich-For-Few-Minutes"
-description: "What I Learned This Week 1 : 04/13/20 To 04/19/20"
+description: "Or How I Decided To Start My Journey To Self-Improvement"
 socialImage: "/media/WILTW.jpg"
 ---
 

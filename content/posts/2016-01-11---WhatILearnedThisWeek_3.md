@@ -1,10 +1,10 @@
 ---
-title: Being Rich For Few Minutes
+title: Normalcy Bias Or Why People Are Attached To Inaction
 date: "2020-05-03"
 template: "post"
 draft: false
-slug: "Being-Rich-For-Few-Minutes"
-description: "What I Learned This Week 1 : 04/26/20 TO 05/03/20"
+slug: "Normalcy-Bias-Or-Why-People-Are-Attached-To-Inaction"
+description: "What I Learned This Week 3 : 04/26/20 TO 05/03/20"
 socialImage: "/media/WILTW_3.jpg"
 ---
 
