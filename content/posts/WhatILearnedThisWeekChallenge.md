@@ -3,7 +3,7 @@ title: What I Learned This Week Challenge
 date: "2020-04-13"
 template: "post"
 draft: false
-slug: "Being-Rich-For-Few-Minutes"
+slug: "What-I-Learned-This-Week-Challenge"
 description: "Or How I Decided To Start My Journey To Self-Improvement"
 socialImage: "/media/WILTW.jpg"
 ---
