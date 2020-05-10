@@ -155,7 +155,7 @@ exports[`TagsListTemplate renders correctly 1`] = `
           >
             <a
               className="contacts__list-item-link"
-              href="https://github.com/gherbox#"
+              href="https://github.com/#"
               rel="noopener noreferrer"
               target="_blank"
             >
