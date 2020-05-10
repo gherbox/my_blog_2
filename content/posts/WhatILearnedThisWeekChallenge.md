@@ -10,7 +10,7 @@ socialImage: "/media/WILTW.jpg"
 
 
 
-![Someone writing](/media/WILTW.jpg")
+![Someone writing](/media/WILTW.jpg)
 
 This is my first post on my new blog! How exciting!
 
