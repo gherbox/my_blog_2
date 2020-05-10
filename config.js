@@ -37,12 +37,6 @@ module.exports = {
       vkontakte: '',
       linkedin: '#',
       instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
     }
   }
 };
