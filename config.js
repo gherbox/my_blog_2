@@ -30,8 +30,20 @@ module.exports = {
     bio: 'Currently working as a Machine Learning engineer, with a focus on HPC and distributed deep learning.',
     contacts: {
       email: '',
+      facebook: '#',
+      telegram: '#',
+      twitter: '#',
       github: '#',
+      rss: '',
+      vkontakte: '',
       linkedin: '#',
+      instagram: '#',
+      line: '',
+      gitlab: '',
+      weibo: '',
+      codepen: '',
+      youtube: '',
+      soundcloud: '',
     }
   }
 };
