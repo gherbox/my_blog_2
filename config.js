@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Currently working as a Machine Learning engineer, with a focus on HPC and distributed deep learning.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 3,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
