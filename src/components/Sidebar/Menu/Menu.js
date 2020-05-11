@@ -16,7 +16,7 @@ const Menu = ({ menu }: Props) => (
       {menu.map((item) => (
         <li className={styles['menu__list-item']} key={item.path}>
           <Link
-            to={item.path}
+            to="/"
             className={styles['menu__list-item-link']}
             activeClassName={styles['menu__list-item-link--active']}
           >

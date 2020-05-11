@@ -1,6 +1,5 @@
 'use strict';
 
-const _ = require('lodash');
 const { createFilePath } = require('gatsby-source-filesystem');
 
 const onCreateNode = ({ node, actions, getNode }) => {

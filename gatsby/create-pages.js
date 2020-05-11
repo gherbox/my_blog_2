@@ -13,8 +13,6 @@ const createPages = async ({ graphql, actions }) => {
     component: path.resolve('./src/templates/not-found-template.js')
   });
 
-
-
   // Posts and pages from markdown
   const result = await graphql(`
     {
@@ -56,6 +54,5 @@ const createPages = async ({ graphql, actions }) => {
   // Feeds
   await createPostsPages(graphql, actions);
 };
-
 
 module.exports = createPages;

@@ -20,10 +20,10 @@ const Feed = ({ edges }: Props) => (
           <span className={styles['feed__item-meta-divider']} />
         </div>
         <h2 className={styles['feed__item-title']}>
-          <Link className={styles['feed__item-title-link']} to={edge.node.fields.slug}>{edge.node.frontmatter.title}</Link>
+          <Link className={styles['feed__item-title-link']} to="/">{edge.node.frontmatter.title}</Link>
         </h2>
         <p className={styles['feed__item-description']}>{edge.node.frontmatter.description}</p>
-        <Link className={styles['feed__item-readmore']} to={edge.node.fields.slug}>Read</Link>
+        <Link className={styles['feed__item-readmore']} to="/">Read</Link>
       </div>
     ))}
   </div>
