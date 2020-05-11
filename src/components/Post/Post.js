@@ -40,3 +40,4 @@ const Post = ({ post }: Props) => {
 };
 
 export default Post;
+

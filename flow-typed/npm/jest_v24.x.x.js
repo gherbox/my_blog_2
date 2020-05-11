@@ -199,7 +199,6 @@ type EnzymeMatchersType = {
     ((state: {}) => void),
   toHaveStyle: ((styleKey: string, styleValue?: any) => void) &
     ((style: {}) => void),
-  toHaveTagName(tagName: string): void,
   toHaveText(text: string): void,
   toHaveValue(value: any): void,
   toIncludeText(text: string): void,
@@ -248,7 +247,6 @@ type JestJQueryMatchersType = {
   toHaveLength(len: number): void,
   toHaveId(id: string): void,
   toHaveClass(className: string): void,
-  toHaveTag(tag: string): void,
   toHaveAttr(key: string, val?: any): void,
   toHaveProp(key: string, val?: any): void,
   toHaveText(text: string | RegExp): void,
@@ -1093,7 +1091,6 @@ type JestPrettyFormatColors = {
   comment: { close: string, open: string },
   content: { close: string, open: string },
   prop: { close: string, open: string },
-  tag: { close: string, open: string },
   value: { close: string, open: string },
 };
 
@@ -1117,7 +1114,6 @@ type JestPrettyFormatOptions = {|
     comment: string,
     content: string,
     prop: string,
-    tag: string,
     value: string,
   |},
 |};
