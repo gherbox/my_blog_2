@@ -24,7 +24,6 @@ const getContactHref = (name: string, contact: string) => {
     case 'instagram':
       href = `https://www.instagram.com/${contact}`;
       break;
-
   }
 
   return href;
