@@ -19,6 +19,7 @@ const useSiteMetadata = () => {
                 telegram
                 instagram
                 email
+                rss
                 vkontakte
                 line
                 gitlab
