@@ -24,7 +24,17 @@
 
 }
 
+@include breakpoint-sm {
+  .page {
+    lost-column: 7/12;
 
+    &__inner {
+      padding: 30px 20px;
+    }
+
+  }
+
+}
 
 @include breakpoint-md {
   .page {
