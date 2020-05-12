@@ -1,19 +1,19 @@
 ---
-title: Normalcy Bias Or Why People Are Attached To Inaction
+title: Normalcy Bias or Why People Are Attached to Inaction
 date: "2020-05-03"
 template: "post"
 draft: false
 slug: "Normalcy-Bias-Or-Why-People-Are-Attached-To-Inaction"
-description: "What I Learned This Week 3 : 04/26/20 To 05/03/20"
+description: "What I Learned This Week 3 : 04/26/20 to 05/03/20"
 socialImage: "/media/WILTW_3.jpg"
 ---
 
 
-This week , the state of Texas was one of the first us state to announce the reopening since the lockdown due to the corona virus. According to the Governor, this is the first phase of getting Texas back to "normal". Consequently, I kept asking myself "How can we be so sure that things are going to get back to normal life?",  and I came across the concept of "Normalcy bias".
+This week, the state of Texas was one of the first Us states to announce the reopening since the lockdown due to the coronavirus. According to the Governor, this is the first phase of getting Texas back to "normal". Consequently, I kept asking myself "How can we be so sure that things are going to get back to normal life?",  and I came across the concept of "Normalcy bias".
 
 
-Normalcy bias, or normality bias, is a cognitive bias which leads people to disbelieve or minimize threat warnings. This can be observed time after time through denial of natural disasters no matter how many warnings are flashed. 
-People usually operate under the mindset that everything is going to be fine, and nothing bad is really going to happen during a potential danger.
+Normalcy bias, or normality bias, is a cognitive bias which leads people to disbelieve or to minimize threat warnings. This can be observed time after time through denial of natural disasters. 
+In order to adjust to life’s obstacles, society operates under the mindset that everything is going to be fine, and nothing bad is really going to happen during a potential danger.
 
 ![Normalcy Bias during fire](/media/WILTW_3_1.jpg)
 

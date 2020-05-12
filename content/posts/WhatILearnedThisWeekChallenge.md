@@ -4,7 +4,7 @@ date: "2020-04-13"
 template: "post"
 draft: false
 slug: "What-I-Learned-This-Week-Challenge"
-description: "Or How I Decided To Start My Journey To Self-Improvement"
+description: "Or How I Decided To Start My Journey to Self-Improvement"
 socialImage: "/media/WILTW.jpg"
 ---
 
