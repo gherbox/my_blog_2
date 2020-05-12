@@ -16,5 +16,3 @@ import type { RenderCallback } from '../types';
       useStaticQuery.mockReturnValue(props)
     );
   });
-
-});
