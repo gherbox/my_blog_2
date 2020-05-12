@@ -6,7 +6,11 @@ import siteMetadata from '../../jest/__fixtures__/site-metadata';
 import allMarkdownRemark from '../../jest/__fixtures__/all-markdown-remark';
 import type { RenderCallback } from '../types';
 
-
+describe('TagsListTemplate', () => {
+  const props = {
+    ...siteMetadata,
+    ...allMarkdownRemark
+  };
 
   beforeEach(() => {
     StaticQuery.mockImplementationOnce(
@@ -16,3 +20,9 @@ import type { RenderCallback } from '../types';
       useStaticQuery.mockReturnValue(props)
     );
   });
+
+  it('renders correctly', () => {
+    const tree = renderer.create(<TagsListTemplate />).toJSON();
+    expect(tree).toMatchSnapshot();
+  });
+});
