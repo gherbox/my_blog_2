@@ -4,8 +4,9 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-I am a HPC - Machine Learning enginner at Total . Prior to working with Total, I worked as a data scientist for AXA a multinational insurance company.
-I completed my Master of Science in France at INP Enseeiht with a focus on Applied Mathematics and Computer Science.
+I am a HPC - Machine Learning enginner at Total. Prior to working with Total, I worked as a data scientist for AXA: a multinational insurance company.
+
+I completed my Master of Science in France at INP Enseeiht with a focus in Applied Mathematics and Computer Science.
 
 My current interest remains in using HPC to accelerate deep Neural Network training and scale out on multi GPUs.
 

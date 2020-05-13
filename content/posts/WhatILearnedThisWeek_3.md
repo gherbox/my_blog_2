@@ -9,7 +9,7 @@ socialImage: "/media/WILTW_3.jpg"
 ---
 
 
-This week, the state of Texas was one of the first Us states to announce the reopening since the lockdown due to the coronavirus. According to the Governor, this is the first phase of getting Texas back to "normal". Consequently, I kept asking myself "How can we be so sure that things are going to get back to normal life?",  and I came across the concept of "Normalcy bias".
+This week, the state of Texas was one of the first Us states to announce the reopening of businesses since the lockdown due to the coronavirus. According to the Governor, this is the first phase of getting Texas back to "normal". Consequently, I kept asking myself "How can we be so sure that things are going to get back to normal life?",  and I came across the concept of "Normalcy bias".
 
 
 Normalcy bias, or normality bias, is a cognitive bias which leads people to disbelieve or to minimize threat warnings. This can be observed time after time through denial of natural disasters. 
