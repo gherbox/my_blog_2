@@ -20,6 +20,6 @@ So how were these tools used for COVID19?
 Engineers used supercomputers to identify drug compounds that neutralize the virus. Several simulations have been made to improve our knowledge on the interaction between the human cells and the protein strain of the virus.
 These simulations are essential to be able to simulate the virus behavior at the molecular level and thus contribute to the development of new treatments and preventive measures.
 
-As of the 11th of May, 2020, researchers have been able to isolate 77 small molecule compounds from more than 8000 initial molecules. The 77 remaining molecule compounds are likely to make the virus harmless for the host cell.
+As of the 11th of May, 2020, researchers have been able to isolate 77 small molecule compounds from more than 8,000 initial molecules. The 77 remaining molecule compounds are likely to make the virus harmless for the host cell.
 
 Amine
