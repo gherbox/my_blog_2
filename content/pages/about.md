@@ -1,7 +1,6 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
 ---
 
 I am a HPC - Machine Learning enginner at Total. Prior to working with Total, I worked as a data scientist for AXA: a multinational insurance company.
