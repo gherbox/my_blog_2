@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Machine Learning engineer focused on HPC and distributed deep learning',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 5,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
@@ -28,6 +28,7 @@ module.exports = {
       email: '',
       github: '#',
       linkedin: '#',
+      instagram: '#',
     }
   }
 };

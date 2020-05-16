@@ -4,7 +4,7 @@ date: "2020-05-10"
 template: "post"
 draft: false
 slug: "How-Supercomputers-are-used-in-the-battle-against-COVID19"
-description: "What I Learned This Week 4 : 05/03/20 to 05/10/20"
+description: "What I Learned This Week 4 : May 10, 2020"
 socialImage: "/media/WILTW_4.jpg"
 ---
 

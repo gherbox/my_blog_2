@@ -12,6 +12,9 @@ const getContactHref = (name: string, contact: string) => {
     case 'linkedin':
       href = `https://www.linkedin.com/in/amine-gherbi/`;
       break;
+    case 'instagram':
+      href = `https://www.instagram.com/a_gherbox/`;
+      break;
     default:
       href = contact;
       break;

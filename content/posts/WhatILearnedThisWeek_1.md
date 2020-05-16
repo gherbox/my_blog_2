@@ -1,10 +1,10 @@
 ---
-title: Being Rich For Few Minutes
+title: Being Rich For a Few Minutes
 date: "2020-04-19"
 template: "post"
 draft: false
 slug: "Being-Rich-For-Few-Minutes"
-description: "What I Learned This Week 1 : 04/13/20 to 04/19/20"
+description: "What I Learned This Week 1 : April 19, 2020"
 socialImage: "/media/WILTW_1.jpg"
 ---
 
