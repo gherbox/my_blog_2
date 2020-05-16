@@ -5,7 +5,6 @@ import Author from './Author';
 import Comments from './Comments';
 import Content from './Content';
 import Meta from './Meta';
-import Tags from './Tags';
 import styles from './Post.module.scss';
 import type { Node } from '../../types';
 
