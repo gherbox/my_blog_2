@@ -21,15 +21,6 @@ export type PageContext = {
 };
 
 export type Node = {
-  fields: {
-    slug: string,
-  },
-  frontmatter: {
-    date: string,
-    description?: string,
-    title: string,
-    socialImage?: string
-  },
   html: string,
   id: string
 };
