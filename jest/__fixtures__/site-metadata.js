@@ -8,7 +8,7 @@ module.exports = {
       subtitle: 'Test subtitle',
       copyright: 'Test copyright',
       disqusShortname: '',
-      postsPerPage: 3,
+      postsPerPage: 4,
       menu: [
         {
           label: 'Test label 1',
