@@ -3,8 +3,8 @@ title: I Started Dropshipping
 date: "2020-05-17"
 template: "post"
 draft: false
-slug: "I-Started-Dropshipping   "
-description: "What I Learned This Week 4 : May 17, 2020"
+slug: "I-Started-Dropshipping"
+description: "What I Learned This Week 5 : May 17, 2020"
 socialImage: "/media/WILTW_5.jpg"
 ---
 
