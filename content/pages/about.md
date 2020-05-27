@@ -3,7 +3,7 @@ title: "About me"
 template: "page"
 ---
 
-I am a HPC - Machine Learning enginner at Total. Prior to working with Total, I worked as a data scientist for AXA: a multinational insurance company.
+I am a HPC - Machine Learning enginner at Total. Prior to working with Total, I worked as a data scientist for AXA.
 
 I completed my Master of Science in France at INP Enseeiht with a focus in Applied Mathematics and Computer Science.
 
