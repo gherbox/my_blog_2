@@ -8,7 +8,7 @@ description: "What I Learned This Week 8 : June 7, 2020"
 socialImage: "/media/WILTW_8.jpg"
 ---
 
-This weekend was my first time camping in the US, I went camping in the NorthWest Texas.
+This weekend was my first time camping in the US, I went camping in the Northwest Texas.
 I went there with 2 American girls (Karla & Ivana) and 2 French girls (Julie & Morgane).
 We spent a really nice weekend there together.
 
