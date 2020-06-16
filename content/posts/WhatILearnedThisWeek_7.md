@@ -11,7 +11,7 @@ socialImage: "/media/WILTW_7.jpg"
 This week was marked by the waves of protests which have shaken the US and the world following the death of George Floyd.
 George Floyd was a black man who was killed during an arrest by Derek Chauvin, a police officer. 
 The police officer knelt on Floyd's neck for almost nine minutes, even though George Floyd repeatedly said "I can't breathe" in his final moments.
-A bystander’s video of the incident was captured and shared through the Social Network. This footage led to a week of crowds burning with grief of anger, frustration, sadness.
+A bystander’s video of the incident was captured and shared through the social media. This footage led to a week of crowds burning with grief of anger, frustration, sadness.
 
 ![George Floyd](/media/WILTW_7.jpg)
 
