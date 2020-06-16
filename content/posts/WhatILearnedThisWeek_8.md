@@ -28,7 +28,7 @@ The last day, we hiked in Palo Duro, which is an awesome place. This was my favo
 The best way to enjoy this place is definitely to camp there and wake up with the sunrise in the morning and enjoying the orange sky.
 I definitely loved this place, and this weekend . I wish I could visit more places like that during my stay in the US.
 
-![Palo Duro(/media/WILTW_8_2.jpg)
+![Palo Duro](/media/WILTW_8_2.jpg)
 
 Amine
 
