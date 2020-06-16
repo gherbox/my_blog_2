@@ -1,5 +1,5 @@
 ---
-title: One week writting an abstract
+title: One Week to Write an Abstract
 date: "2020-06-14"
 template: "post"
 draft: false

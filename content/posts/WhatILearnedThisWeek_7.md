@@ -1,5 +1,5 @@
 ---
-title: A Week Of Protests In The Us 
+title: A Week Of Protests In The US
 date: "2020-05-31"
 template: "post"
 draft: false
