@@ -9,7 +9,7 @@ socialImage: "/media/WILTW_8.jpg"
 ---
 
 This weekend was my first time camping in the US, I went camping in the NorthWest Texas.
-I went there with 2 American girls (Karla & Ivana) and 2 french girls (Julie & Morgane).
+I went there with 2 American girls (Karla & Ivana) and 2 French girls (Julie & Morgane).
 We spent a really nice weekend there together.
 
 Sure the lack of experience, made us make some common first mistakes.
