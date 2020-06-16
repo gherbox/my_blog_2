@@ -17,8 +17,8 @@ For instance, on Friday we went for a long hiking in Caprock Canyon, under a bla
 It was very difficult, and a bit scary because at some points we were lost. 
 
 But believe me, the beauty and the uniqueness of the place is worth every second spend there.
-I saw for the first time some bison. I found myself face to face in front of this herd of huge bison. They stood still and stared at me for a long time. I was paralyzed. I thought that they would charge me if I made any sudden movement.
-Finally, after 15min they decided to move. I felt so relief.
+I saw for the first time some bison. I found myself face to face in front of this herd of huge bison. They stood still and stared at me for a long time. I was paralyzed. I thought that they would charge toward me if I made any sudden movement.
+Finally, after 15min they decided to move. I felt relieved.
 
 The day after we went to a place called Cadillac Ranch which is a place where you can find dozens of Cadillac nailed to the ground vertically. It is the best place to let express your art by spray painting on those cars. It's also a great place to take photo for Instagram. My friends, for example, took the exact same photo at least 100 times to make their lifestyle look enviable with a flattering pose.
 
